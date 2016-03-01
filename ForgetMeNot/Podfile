@@ -1,0 +1,4 @@
+
+pod 'SVProgressHUD', :head
+pod 'JSBadgeView'
+pod 'CRToast', '~> 0.0.7'
